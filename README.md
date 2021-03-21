@@ -1,0 +1,2 @@
+# youtube_iframe_rss
+youtubeのユーザーIDを使用して、投稿日時が新しい順で動画のURLを取得し、iframeでウェブサイトに動画を表示できるPHPのコード。
